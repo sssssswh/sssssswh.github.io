@@ -10,46 +10,40 @@ redirect_from:
 
 ## About Me  
 
-I am **Zoey**, a skilled **data scientist** with a strong background in **artificial intelligence (AI) and machine learning (ML)**. I completed both my **Bachelor’s and Master’s degrees in China** and recently submitted my **Ph.D. thesis at [Victoria University of Wellington] (https://www.wgtn.ac.nz/), New Zealand, in February 2025**.  
+I am **Zoey**, a skilled **data scientist** with a strong background in **artificial intelligence (AI) and machine learning (ML)**. I completed both my Bachelor’s and Master’s degrees in China and recently submitted my Ph.D. thesis at [Victoria University of Wellington] (https://www.wgtn.ac.nz/), New Zealand, in February 2025.  
 
-Throughout my Ph.D., I collaborated with **[Manaaki Whenua – Landcare Research] (https://www.landcareresearch.co.nz/)**, applying AI techniques to solve real-world challenges, especially tree crown segmentation. 
+Throughout my Ph.D., I collaborated with [Manaaki Whenua – Landcare Research] (https://www.landcareresearch.co.nz/), applying AI techniques to solve real-world challenges, especially tree crown segmentation. 
 
 I am currently **open to work** and actively seeking **full-time opportunities** in **data science, AI research, and machine learning engineering**. I am particularly interested in roles that involve **AI, deep learning, and applied AI solutions** in both academia and industry.  
 
 **Let’s connect!** 🚀
 
 
-<div style="display: flex; justify-content: space-between;">
+{{< columns >}}
 
-<div style="width: 45%;">
+### Interests  
 
-## Interests
+- **AI**  
+- **Deep Learning**  
+- **Computer Vision**  
+- **Image Segmentation**  
+- **Large Language Models**  
 
-- **AI**
-- **Deep Learning**
-- **Computer Vision**
-- **Image Segmentation**
-- **Large Language Models**
+<--->
 
-</div>
+### Education  
 
-<div style="width: 45%;">
-
-## Education
-
-### **PhD in Computer Science**  
+#### **PhD in Computer Science**  
 **Victoria University of Wellington**  
-_Oct 2021 - Feb 2025_
+_Oct 2021 - Feb 2025_  
 
-### **MSc in Neuroscience**  
+#### **MSc in Neuroscience**  
 **Shandong University of Finance and Economics**  
-_Sep 2018 - Jun 2021_
+_Sep 2018 - Jun 2021_  
 
-### **Medical Degree**  
+#### **Medical Degree**  
 **Shandong University of Finance and Economics**  
-_Sep 2014 - Jun 2018_
+_Sep 2014 - Jun 2018_  
 
-</div>
-
-</div>
+{{< /columns >}}
 
