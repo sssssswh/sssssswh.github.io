@@ -53,7 +53,7 @@ _Sep 2014 - Jun 2018_
 
   <div style="width: 48%;">
   
-  ### Interests  
+  **Interests**  
 
   - **AI**  
   - **Deep Learning**  
@@ -65,17 +65,17 @@ _Sep 2014 - Jun 2018_
 
   <div style="width: 48%;">
 
-  ### Education  
+ **Education**  
 
-  #### **PhD in Computer Science**  
+  **PhD in Computer Science**  
   **Victoria University of Wellington**  
   _Oct 2021 - Feb 2025_  
 
-  #### **MSc in Computer Science**  
+  **MSc in Computer Science**  
   **Shandong University of Finance and Economics**  
   _Sep 2018 - Jun 2021_  
 
-  #### **BSc in Computer Science**  
+  **BSc in Computer Science**  
   **Shandong University of Finance and Economics**  
   _Sep 2014 - Jun 2018_  
 
