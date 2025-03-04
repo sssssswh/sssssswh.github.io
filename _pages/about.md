@@ -48,3 +48,37 @@ _Sep 2014 - Jun 2018_
 {{< /columns >}}
 
 
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+
+  <div style="width: 48%;">
+  
+  ### Interests  
+
+  - **AI**  
+  - **Deep Learning**  
+  - **Computer Vision**  
+  - **Image Segmentation**  
+  - **Large Language Models**  
+
+  </div>
+
+  <div style="width: 48%;">
+
+  ### Education  
+
+  #### **PhD in Computer Science**  
+  **Victoria University of Wellington**  
+  _Oct 2021 - Feb 2025_  
+
+  #### **MSc in Computer Science**  
+  **Shandong University of Finance and Economics**  
+  _Sep 2018 - Jun 2021_  
+
+  #### **BSc in Computer Science**  
+  **Shandong University of Finance and Economics**  
+  _Sep 2014 - Jun 2018_  
+
+  </div>
+
+</div>
