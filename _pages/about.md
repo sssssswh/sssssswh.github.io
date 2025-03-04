@@ -19,33 +19,6 @@ I am currently **open to work** and actively seeking full-time opportunities in 
 Let’s connect! 🚀
 
 
-{{< columns >}}
-
-### Interests  
-
-- AI 
-- Deep Learning
-- Computer Vision 
-- Image Segmentation  
-- Large Language Models  
-
-<--->
-
-### Education  
-
-#### **PhD in Computer Science**  
-**Victoria University of Wellington**  
-_Oct 2021 - Feb 2025_  
-
-#### **MSc in Computer Science**  
-**Shandong University of Finance and Economics**  
-_Sep 2018 - Jun 2021_  
-
-#### **BSc in Computer Science**  
-**Shandong University of Finance and Economics**  
-_Sep 2014 - Jun 2018_  
-
-{{< /columns >}}
 
 
 
@@ -55,27 +28,26 @@ _Sep 2014 - Jun 2018_
   
   **Interests**  
 
-  - **AI**  
-  - **Deep Learning**  
-  - **Computer Vision**  
-  - **Image Segmentation**  
-  - **Large Language Models**  
-
+  - AI 
+  - Deep Learning
+  - Computer Vision 
+  - Image Segmentation  
+  - Large Language Models  
   </div>
 
   <div style="width: 48%;">
 
  **Education**  
 
-  **PhD in Computer Science**  
+  -**PhD in Computer Science**  
   **Victoria University of Wellington**  
   _Oct 2021 - Feb 2025_  
 
-  **MSc in Computer Science**  
+  -**MSc in Computer Science**  
   **Shandong University of Finance and Economics**  
   _Sep 2018 - Jun 2021_  
 
-  **BSc in Computer Science**  
+  -**BSc in Computer Science**  
   **Shandong University of Finance and Economics**  
   _Sep 2014 - Jun 2018_  
 
