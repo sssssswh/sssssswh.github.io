@@ -10,9 +10,9 @@ redirect_from:
 
 ## About Me  
 
-I am Zoey, a skilled data scientist with a strong background in artificial intelligence (AI) and machine learning (ML). I completed both my Bachelor’s and Master’s degrees in China and recently submitted my Ph.D. thesis at [Victoria University of Wellington] (https://www.wgtn.ac.nz/), New Zealand, in February 2025.  
+I am Zoey, a skilled data scientist with a strong background in artificial intelligence (AI) and machine learning (ML). I completed both my Bachelor’s and Master’s degrees in China and recently submitted my Ph.D. thesis at [Victoria University of Wellington](https://www.wgtn.ac.nz/), New Zealand, in February 2025.  
 
-Throughout my Ph.D., I collaborated with [Manaaki Whenua – Landcare Research] (https://www.landcareresearch.co.nz/), applying AI techniques to solve real-world challenges, especially tree crown segmentation. 
+Throughout my Ph.D., I collaborated with [Manaaki Whenua – Landcare Research](https://www.landcareresearch.co.nz/), applying AI techniques to solve real-world challenges, especially tree crown segmentation. 
 
 I am currently **open to work** and actively seeking full-time opportunities in data science, AI research, and machine learning engineering. I am particularly interested in roles that involve AI, deep learning, and applied AI solutions in both academia and industry.  
 
