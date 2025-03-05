@@ -51,9 +51,9 @@ Work Experience
 - Worked with the team to ssess project progress** and communicated key findings through reports and presentations.  
 - *Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler*
 
-  
+---  
 Skills
----
+
 
 * Computer Languages: Advanced in Python, Java, C/C++, MATLAB.
 
@@ -72,32 +72,32 @@ Skills
 * Interpersonal Skills: Team work, leadership, and consultation.
 
 * Academic and Professional Skills: Research, presentation, teaching, and training.
-
-Publications
+* 
 ---
+Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+---  
 Talks
----
-======
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-  
+--- 
 Education
----
+
 
 * PhD in Engineering and Computer Science, Victoria University of Wellington, 2025
 * MSc in Computer Science and Technology, Shandong University of Finance and Economics, 2021
 * BSc in Computer Science and Technology, Shandong University of Finance and Economics, 2018  
 
-  
+---  
 Interests
----
+
 
 
 Hiking🚶, fishing🎣，badminton🏸, reading📖, cycling🚴, and swimming🏊
