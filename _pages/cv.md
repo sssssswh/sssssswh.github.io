@@ -29,6 +29,28 @@ Work experience
   * Worked with the team to assess project progress, and communicated key findings through reports and presentations.
   * Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler
 
+Work Experience
+---
+
+### 🎯 **Research Assistant** (Mar 2025 - Present)  
+**Victoria University of Wellington**  
+*Supervisors: Bing Xue, Mengjie Zhang*
+
+---
+
+### 🎯 **Intern at Digital & AI Team** (Sep 2024 - Dec 2024)  
+**Callaghan Innovation**  
+- Enhanced large language model responses by fine-tuning the **retrieval-augmented generation (RAG)** component, focusing on retrieval improvements and prompt engineering.  
+- Engaged in the **GovGPT** and **PaperBoi (Science-Paper Conversational Agent) projects**.
+
+---
+
+### 🎯 **Doctoral Researcher** (Oct 2021 - Feb 2025)  
+**Victoria University of Wellington**  
+- Collaborated with **Manaaki Whenua – Landcare Research** to develop **advanced AI models** for **segmenting individual tree crowns** from aerial imagery in the Wellington region.  
+- Worked with the team to ssess project progress** and communicated key findings through reports and presentations.  
+- *Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler*
+
   
 Skills
 ---
