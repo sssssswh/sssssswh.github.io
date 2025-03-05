@@ -82,10 +82,10 @@ redirect_from:
 ## 🎭 Interests  
 ---
 
-🌲 **Outdoor Activities:** Hiking 🚶, Fishing 🎣, Cycling 🚴, Swimming 🏊  
+**Outdoor Activities:** Hiking 🚶, Fishing 🎣, Cycling 🚴, Swimming 🏊  
 
-📚 **Intellectual Hobbies:** Reading 📖, Researching 🧠  
+**Intellectual Hobbies:** Reading 📖, Researching 🧠  
 
-🏸 **Sports & Fitness:** Badminton 🏸, Gym 💪  
+**Sports & Fitness:** Badminton 🏸, Gym 💪  
 
 
