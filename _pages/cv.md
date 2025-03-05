@@ -52,7 +52,7 @@ Skills
 * Interpersonal Skills: Team work, leadership, and consultation.
 
 * Academic and Professional Skills: Research, presentation, teaching, and training.
-* 
+ 
 ---
 Publications
 ======
