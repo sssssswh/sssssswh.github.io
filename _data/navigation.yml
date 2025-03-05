@@ -18,8 +18,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Skill"
-    url: /portfolio/
+  #- title: "Skill"
+  #  url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
