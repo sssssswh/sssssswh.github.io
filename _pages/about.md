@@ -39,15 +39,15 @@ Let’s connect! 🚀
   <h2>Education</h2> 
 
    🎓**PhD in Computer Science**  
-  Victoria University of Wellington,
+  Victoria University of Wellington <br>
   _Oct 2021 - Feb 2025_  
 
    🎓**MSc in Computer Science**  
-  Shandong University of Finance and Economics,
+  Shandong University of Finance and Economics <br>
   _Sep 2018 - Jun 2021_  
 
    🎓**BSc in Computer Science**  
-  Shandong University of Finance and Economics,
+  Shandong University of Finance and Economics <br>
   _Sep 2014 - Jun 2018_  
 
   </div>
