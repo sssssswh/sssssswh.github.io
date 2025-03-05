@@ -9,28 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar 2025: Research Assistant
+  * Victoria University of Wellington
+  * Collaborated with Manaaki Whenua – Landcare Research to develop advanced AI models for segmenting individual tree crowns from aerial imagery in the Wellington region.
+	* Worked with the team to assess project progress, and communicated key findings through reports and presentations.
+  * Supervisors: Bing Xue, Mengjie Zhang
+  * 
+* Sep 2024: Intern at Digital \& AI Team
+  * Callaghan Innovation
+  * Enhanced large language model responses by fine-tuning the retrieval-augmented generation (RAG) component, focusing on retrieval improvements and prompt engineering.
+  * Engaged in the GovGPT and PaperBoi (Science-Paper Conversational Agent) projects.
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Oct 2021: Phd Research
+  * Victoria University of Wellington
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -52,8 +48,16 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
   
+Education
+======
+* PhD in Engineering and Computer Science, Victoria University of Wellington, 2025
+* MSc in Computer Science and Technology, Shandong University of Finance and Economics, 2021
+* BSc in Computer Science and Technology, Shandong University of Finance and Economics, 2018  
+
   
 Interests
 ======
+
 Hiking🚶, fishing🎣，badminton🏸, reading📖, cycling🚴, and swimming🏊
