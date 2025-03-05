@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+---
 
 I am Zoey, a skilled data scientist with a strong background in artificial intelligence (AI) and machine learning (ML). I completed both my Bachelor’s and Master’s degrees in China and recently submitted my Ph.D. thesis at [Victoria University of Wellington](https://www.wgtn.ac.nz/), New Zealand, in February 2025.  
 
@@ -55,7 +56,7 @@ Let’s connect! 🚀
 </div>
 
 
----
+
 
 <h2>Languages</h2>
 
