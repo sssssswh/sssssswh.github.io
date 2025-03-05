@@ -16,7 +16,7 @@ Work experience
   * Supervisors: Bing Xue, Mengjie Zhang
  
     
-* Sep 2024: Intern at Digital \& AI Team
+* Sep 2024: Intern at Digital & AI Team
   * Callaghan Innovation
   * Enhanced large language model responses by fine-tuning the retrieval-augmented generation (RAG) component, focusing on retrieval improvements and prompt engineering.
   * Engaged in the GovGPT and PaperBoi (Science-Paper Conversational Agent) projects.
