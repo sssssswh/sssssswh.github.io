@@ -1,20 +1,28 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+## 🛠 Skills  
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### 🔹 Programming Languages  
+- **Python**, **Java**, **C/C++**, **MATLAB**  
 
-Heading 1
-======
+### 🔹 Data Science & Analysis  
+- Proficient in **data manipulation & analysis** using:  
+  - **Pandas**, **NumPy**, **SciPy**  
+- Strong experience in **SQL** for database querying  
 
-Heading 2
-======
+### 🔹 Machine Learning & AI  
+- **Deep Learning**, **Computer Vision**, **Object Detection**, **Image Segmentation**  
+- Expertise in:  
+  - **YOLO models**, **Transformer models**  
+  - **Neural Networks**, **Optimization Algorithms**  
 
-Heading 3
-======
+### 🔹 Frameworks & Libraries  
+- **PyTorch**, **TensorFlow**, **OpenCV**, **Scikit-learn**, **Matplotlib**  
+
+### 🔹 Software & Tools  
+- **Jupyter Notebook**, **Visual Studio**, **PyCharm**, **Microsoft Office**, **Photoshop**  
+
+### 🔹 Version Control & Collaboration  
+- **GitHub**, **GitLab**  
+
+### 🔹 Soft Skills  
+- **Teamwork**, **Leadership**, **Consultation**  
+- **Research**, **Presentation**, **Teaching**, **Training**  
