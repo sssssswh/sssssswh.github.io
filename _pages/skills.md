@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-## 🛠 Skills  
+
 
 ### 🔹 Programming Languages  
 - **Python**, Java, C/C++**, MATLAB  
