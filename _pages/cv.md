@@ -30,12 +30,23 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Languages: Advanced in Python, Java, C/C++, MATLAB.
+
+* Data Analysis: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.
+
+* Databases: Familiar with SQL.
+
+* Framework and Libraries: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.
+
+* Algorithms: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.
+
+* Softwares: Jupyter, Visual Studio, PyCharm, Microsoft Office, Photoshop.
+
+* Repositories: GitHub, GitLab.
+
+* Interpersonal Skills: Team work, leadership, and consultation.
+
+* Academic and Professional Skills: Research, presentation, teaching, and training.
 
 Publications
 ======
