@@ -1,5 +1,5 @@
 ---
-title: "ICycleGAN: Single image dehazing based on iterative dehazing model and CycleGAN"
+title: "ICycleGAN: Single Image Dehazing Based on Iterative Dehazing Model and CycleGAN"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-02-01-yolov8e-instance-segmentation
