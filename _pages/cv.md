@@ -12,46 +12,46 @@ redirect_from:
 
 ## Work Experience
 ---
-### 🎯 Research Assistant (Mar 2025 - Present)  
+### 📌 Research Assistant (Mar 2025 - Present)  
 **Victoria University of Wellington**  
 *Supervisors: Bing Xue, Mengjie Zhang*
 
 
 
-### 🎯 Intern at Digital & AI Team (Sep 2024 - Dec 2024)  
+### 📌 Intern at Digital & AI Team (Sep 2024 - Dec 2024)  
 **Callaghan Innovation**  
 - Engaged in the **GovGPT** and **PaperBoi (Science-Paper Conversational Agent) projects**.
 - Enhanced large language model responses by fine-tuning the retrieval-augmented generation (RAG) component, focusing on retrieval improvements and prompt engineering.  
 
 
-### 🎯 Doctoral Researcher (Oct 2021 - Feb 2025)  
+### 📌 Doctoral Researcher (Oct 2021 - Feb 2025)  
 **Victoria University of Wellington**  
 - Collaborated with **Manaaki Whenua – Landcare Research** to develop advanced AI models for segmenting individual tree crowns from aerial imagery in the Wellington region.  
 - Worked with the team to ssess project progress and communicated key findings through reports and presentations.  
 - *Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler*
 
  
-## Skills
+## Skills  
 ---
 
-* Computer Languages: Advanced in Python, Java, C/C++, MATLAB.
+- 💻 **Computer Languages**: Advanced in Python, Java, C/C++, MATLAB.  
 
-* Data Analysis: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.
+- 📊 **Data Analysis**: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.  
 
-* Databases: Familiar with SQL.
+- 🗄 **Databases**: Familiar with SQL.  
 
-* Framework and Libraries: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.
+- 🏗 **Framework and Libraries**: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.  
 
-* Algorithms: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.
+- 🤖 **Algorithms**: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.  
 
-* Softwares: Jupyter, Visual Studio, PyCharm, Microsoft Office, Photoshop.
+- 🛠 **Softwares**: Jupyter, Visual Studio, PyCharm, Microsoft Office, Photoshop.  
 
-* Repositories: GitHub, GitLab.
+- 🔗 **Repositories**: GitHub, GitLab.  
 
-* Interpersonal Skills: Team work, leadership, and consultation.
+- 🤝 **Interpersonal Skills**: Team work, leadership, and consultation.  
 
-* Academic and Professional Skills: Research, presentation, teaching, and training.
- 
+- 🎓 **Academic and Professional Skills**: Research, presentation, teaching, and training.  
+
 
 ## Publications
 ---
