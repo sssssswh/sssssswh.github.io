@@ -27,19 +27,16 @@
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
-      {% if author.email %}
-        <li><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i><strong>Email:</strong> {{ author.email }}</li>
-      {% endif %}
-
-
+      {% if author.employer %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i><strong>Email:</strong> {{ author.email }}</li>
       {% endif %}
-
+      
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
