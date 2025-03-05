@@ -70,13 +70,13 @@ redirect_from:
 ---
 
 📌 **PhD in Engineering and Computer Science**  
-🏛 *Victoria University of Wellington* | 🎯 *Expected 2025*  
+ *Victoria University of Wellington* | *Expected 2025*  
 
 📌 **MSc in Computer Science and Technology**  
-🏛 *Shandong University of Finance and Economics* | 🎯 *2021*  
+ *Shandong University of Finance and Economics* | *2021*  
 
 📌 **BSc in Computer Science and Technology**  
-🏛 *Shandong University of Finance and Economics* | 🎯 *2018*  
+ *Shandong University of Finance and Economics* | *2018*  
 
 
 ## 🎭 Interests  
