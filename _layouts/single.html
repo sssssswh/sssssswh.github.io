@@ -21,13 +21,22 @@ layout: default
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+
     {% if page.authors %}
       <p><strong>Authors:</strong> 
         {% for author in page.authors %}
-          {{ author | markdownify }}{% unless forloop.last %}, {% endunless %}
+          {% if author contains "http" %}
+            <a href="{{ author | split: '(' | last | split: ')' | first | strip }}">{{ author | split: '[' | last | split: ']' | first }}</a>
+          {% else %}
+            {{ author }}
+          {% endif %}
+          {% if forloop.last == false %}
+            {% if forloop.index == forloop.length | minus: 1 %} and {% else %}, {% endif %}
+          {% endif %}
         {% endfor %}
       </p>
     {% endif %}
+
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
     <div class="page__inner-wrap">
