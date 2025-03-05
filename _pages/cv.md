@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
 
 Work experience
+---
 ======
 * Mar 2025: Research Assistant
   * Victoria University of Wellington
@@ -29,6 +31,7 @@ Work experience
 
   
 Skills
+---
 ======
 * Computer Languages: Advanced in Python, Java, C/C++, MATLAB.
 
@@ -49,12 +52,14 @@ Skills
 * Academic and Professional Skills: Research, presentation, teaching, and training.
 
 Publications
+---
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
+---
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -62,6 +67,7 @@ Talks
 
   
 Education
+---
 ======
 * PhD in Engineering and Computer Science, Victoria University of Wellington, 2025
 * MSc in Computer Science and Technology, Shandong University of Finance and Economics, 2021
@@ -69,6 +75,7 @@ Education
 
   
 Interests
+---
 ======
 
 Hiking🚶, fishing🎣，badminton🏸, reading📖, cycling🚴, and swimming🏊
