@@ -13,10 +13,9 @@ Work experience
 ======
 * Mar 2025: Research Assistant
   * Victoria University of Wellington
-  * Collaborated with Manaaki Whenua – Landcare Research to develop advanced AI models for segmenting individual tree crowns from aerial imagery in the Wellington region.
-	* Worked with the team to assess project progress, and communicated key findings through reports and presentations.
   * Supervisors: Bing Xue, Mengjie Zhang
-  * 
+ 
+    
 * Sep 2024: Intern at Digital \& AI Team
   * Callaghan Innovation
   * Enhanced large language model responses by fine-tuning the retrieval-augmented generation (RAG) component, focusing on retrieval improvements and prompt engineering.
@@ -24,7 +23,8 @@ Work experience
 
 * Oct 2021: Phd Research
   * Victoria University of Wellington
-  * Duties included: Merging pull requests
+  * Collaborated with Manaaki Whenua – Landcare Research to develop advanced AI models for segmenting individual tree crowns from aerial imagery in the Wellington region.
+  * Worked with the team to assess project progress, and communicated key findings through reports and presentations.
   * Supervisor: Professor Hub
 
   
