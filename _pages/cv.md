@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-##Work Experience
+## Work Experience
 ---
 ### 🎯 Research Assistant (Mar 2025 - Present)  
 **Victoria University of Wellington**  
@@ -32,7 +32,7 @@ redirect_from:
 - *Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler*
 
  
-##Skills
+## Skills
 ---
 
 * Computer Languages: Advanced in Python, Java, C/C++, MATLAB.
@@ -54,21 +54,21 @@ redirect_from:
 * Academic and Professional Skills: Research, presentation, teaching, and training.
  
 
-##Publications
+## Publications
 ---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
  
-##Talks
+## Talks
 ---
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
 
-##Education
+## Education
 ---
 
 * PhD in Engineering and Computer Science, Victoria University of Wellington, 2025
@@ -76,7 +76,7 @@ redirect_from:
 * BSc in Computer Science and Technology, Shandong University of Finance and Economics, 2018  
 
 
-##Interests
+## Interests
 ---
 
 Hiking🚶, fishing🎣，badminton🏸, reading📖, cycling🚴, and swimming🏊
