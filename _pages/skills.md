@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Skills"
-permalink: /skill/
+permalink: /skills/
 author_profile: true
 redirect_from:
   - /resume
