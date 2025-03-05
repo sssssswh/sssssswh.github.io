@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 17 Nov 2024
-venue: 'Journal of the Royal Society of New Zealand '
+venue: 'Journal of the Royal Society of New Zealand'
 paperurl: 'https://doi.org/10.1080/03036758.2024.2424802'
 Authors: 'Ziyi Sun, [Bing Xue](https://people.wgtn.ac.nz/bing.xue), [Mengjie Zhang](https://people.wgtn.ac.nz/mengjie.zhang), and [Jan Schindler](https://www.landcareresearch.co.nz/about-us/our-people/jan-schindler).'
 ---
