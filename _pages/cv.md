@@ -18,7 +18,7 @@ redirect_from:
 
 
 
-### 📌 Intern at Digital & AI Team (Sep 2024 - Dec 2024)  
+### 📌 Intern at Digital & AI Team (Sep 2024 - Mar 2025)  
 **Callaghan Innovation**  
 - Engaged in the **GovGPT** and **PaperBoi (Science-Paper Conversational Agent) projects**.
 - Enhanced large language model responses by fine-tuning the retrieval-augmented generation (RAG) component, focusing on retrieval improvements and prompt engineering.  
