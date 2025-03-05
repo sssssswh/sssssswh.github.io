@@ -34,23 +34,23 @@ redirect_from:
 ## Skills  
 ---
 
-- 💻 **Computer Languages**: Advanced in Python, Java, C/C++, MATLAB.  
+-  **Computer Languages**: Advanced in Python, Java, C/C++, MATLAB.  
 
-- 📊 **Data Analysis**: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.  
+-  **Data Analysis**: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.  
 
-- 🗄 **Databases**: Familiar with SQL.  
+-  **Databases**: Familiar with SQL.  
 
-- 🏗 **Framework and Libraries**: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.  
+-  **Framework and Libraries**: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.  
 
-- 🤖 **Algorithms**: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.  
+-  **Algorithms**: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.  
 
-- 🛠 **Softwares**: Jupyter, Visual Studio, PyCharm, Microsoft Office, Photoshop.  
+-  **Softwares**: Jupyter, Visual Studio, PyCharm, Microsoft Office, Photoshop.  
 
-- 🔗 **Repositories**: GitHub, GitLab.  
+-  **Repositories**: GitHub, GitLab.  
 
-- 🤝 **Interpersonal Skills**: Team work, leadership, and consultation.  
+-  **Interpersonal Skills**: Team work, leadership, and consultation.  
 
-- 🎓 **Academic and Professional Skills**: Research, presentation, teaching, and training.  
+-  **Academic and Professional Skills**: Research, presentation, teaching, and training.  
 
 
 ## Publications
