@@ -21,11 +21,11 @@ Work experience
   * Enhanced large language model responses by fine-tuning the retrieval-augmented generation (RAG) component, focusing on retrieval improvements and prompt engineering.
   * Engaged in the GovGPT and PaperBoi (Science-Paper Conversational Agent) projects.
 
-* Oct 2021: Phd Research
+* Oct 2021: Doctoral Researcher
   * Victoria University of Wellington
   * Collaborated with Manaaki Whenua – Landcare Research to develop advanced AI models for segmenting individual tree crowns from aerial imagery in the Wellington region.
   * Worked with the team to assess project progress, and communicated key findings through reports and presentations.
-  * Supervisor: Professor Hub
+  * Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler
 
   
 Skills
