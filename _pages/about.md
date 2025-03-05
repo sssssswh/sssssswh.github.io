@@ -55,3 +55,9 @@ Let’s connect! 🚀
 </div>
 
 
+---
+
+<h2>Languages</h2>
+
+<p>English (Fluent) | Chinese (Native)</p>
+
