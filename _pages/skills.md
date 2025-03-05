@@ -16,12 +16,12 @@ redirect_from:
 - **Python**, Java, C/C++**, MATLAB  
 
 ### 🔹 Data Science & Analysis  
-- Proficient in **data manipulation & analysis** using:  
+- Proficient in data manipulation & analysis using:  
   - Pandas, NumPy**, SciPy  
 - Strong experience in SQL for database querying  
 
 ### 🔹 Machine Learning & AI  
-- **Deep Learning**, **Computer Vision**, **Object Detection**, **Image Segmentation**  
+- Deep Learning, Computer Vision, Image Processing, Object Detection, Image Segmentation  
 - Expertise in:  
   - YOLO models, Transformer models  
   - Neural Networks, Optimization Algorithms* 
