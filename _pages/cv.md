@@ -12,7 +12,7 @@ redirect_from:
 
 Work experience
 ---
-======
+
 * Mar 2025: Research Assistant
   * Victoria University of Wellington
   * Supervisors: Bing Xue, Mengjie Zhang
@@ -32,7 +32,7 @@ Work experience
   
 Skills
 ---
-======
+
 * Computer Languages: Advanced in Python, Java, C/C++, MATLAB.
 
 * Data Analysis: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.
@@ -53,7 +53,7 @@ Skills
 
 Publications
 ---
-======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -68,7 +68,7 @@ Talks
   
 Education
 ---
-======
+
 * PhD in Engineering and Computer Science, Victoria University of Wellington, 2025
 * MSc in Computer Science and Technology, Shandong University of Finance and Economics, 2021
 * BSc in Computer Science and Technology, Shandong University of Finance and Economics, 2018  
@@ -76,6 +76,6 @@ Education
   
 Interests
 ---
-======
+
 
 Hiking🚶, fishing🎣，badminton🏸, reading📖, cycling🚴, and swimming🏊
