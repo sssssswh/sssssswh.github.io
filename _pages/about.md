@@ -23,7 +23,7 @@ Let’s connect! 🚀
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
-  <div style="width: 40%;">
+  <div style="width: 36%;">
   
   <h2>Interests</h2> 
 
@@ -34,7 +34,7 @@ Let’s connect! 🚀
   - Large Language Models  
   </div>
 
-  <div style="width: 50%;">
+  <div style="width: 68%;">
 
   <h2>Education</h2> 
 
