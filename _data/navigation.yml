@@ -7,7 +7,10 @@
 main:
 
   - title: "Skills"
-    url: /skills/  
+    url: /skills/ 
+    
+  - title: "Projects"
+    url: /projects/ 
   
   - title: "Publications"
     url: /publications/
