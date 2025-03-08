@@ -1,7 +1,15 @@
 ---
 title: "Automotive Wheel Hub Weld Seam Positioning System"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Participated in projects in collaboration with FAW (China First Automobile Works) and China National Heavy Duty Truck Group, implementing precise detection and rapid positioning of weld seams on wheel hubs, 2020<br/><img src='/images/boli.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Key Contributions  
+- Collaborated on **data collection, cleaning, and labeling**, followed by analysis to derive actionable insights.  
+- Built **targeted YOLO models** to locate and detect weld seams on wheel hubs.  
+- Regularly communicated with clients to provide updates and demonstrate project progress, ensuring alignment with their expectations.  
+
+## Achievements  
+- Successfully deployed in **practical applications**.  
+- Achieved a **detection rate of 99.98%** with **positional accuracy under 0.3 cm**.  
+
