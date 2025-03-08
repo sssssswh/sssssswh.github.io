@@ -1,7 +1,7 @@
 ---
 title: "Automotive Wheel Hub Weld Seam Positioning System"
 excerpt: "Participated in projects in collaboration with **FAW (China First Automobile Works)** and **China National Heavy Duty Truck Group**, implementing precise detection and rapid positioning of weld seams on wheel hubs, 2020<br/><img src='/images/feng.png'>"
-collection: portfolio
+collection: projects
 ---
 
 ## Key Contributions  
