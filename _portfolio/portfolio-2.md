@@ -12,7 +12,7 @@ collection: portfolio
   - Employing **image processing techniques** to enhance defect features  
   - Manually labeling defects  
   - Establishing a comprehensive database  
-- Developed a **comprehensive AI-based pipeline** using **YOLO models** for automated glass defect detection.  
+- Developed a **comprehensive AI-based pipeline** using **deop learning models (YOLO)** for automated glass defect detection.  
 - Presented project outcomes to clients and facilitated **system integration** into practical applications, ensuring seamless adoption and functionality in real-world settings.  
 
 ### Achievements  
