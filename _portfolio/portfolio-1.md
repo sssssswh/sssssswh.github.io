@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Key Contributions  
 - Collaborated on **data collection, cleaning, and labeling**, followed by analysis to derive actionable insights.  
-- Built **targeted YOLO models** to locate and detect weld seams on wheel hubs.  
+- Built **targeted CNN models (YOLO)** to locate and detect weld seams on wheel hubs.  
 - Regularly communicated with clients to provide updates and demonstrate project progress, ensuring alignment with their expectations.  
 
 ## Achievements  
