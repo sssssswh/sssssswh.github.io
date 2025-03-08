@@ -13,11 +13,11 @@ redirect_from:
 
 
 ### 🔹 Programming Languages  
-- **Python**, Java, C/C++**, MATLAB  
+- **Python**, Java, C/C++, MATLAB  
 
 ### 🔹 Data Science & Analysis  
 - Proficient in data manipulation & analysis using:  
-  - Pandas, NumPy**, SciPy  
+  - Pandas, NumPy, SciPy  
 - Strong experience in SQL for database querying  
 
 ### 🔹 Machine Learning & AI  
