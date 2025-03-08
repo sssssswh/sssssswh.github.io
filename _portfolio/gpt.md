@@ -1,6 +1,6 @@
 ---
 title: "AI Agent"
-excerpt: "Engaged in the GovGPT and PaperBoi (Science-Paper Conversational Agent) projects, 2024"
+excerpt: "Worked at **Callaghan Innovation** on the **GovGPT** and **PaperBoi** (Science-Paper Conversational Agent) projects, 2024-2025"
 collection: portfolio
 ---
 
