@@ -9,125 +9,179 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="skills-container">
-  <div class="skills-category">
-    <h2><i class="fas fa-code"></i> Programming Languages</h2>
-    <div class="skills-list">
-      <span class="skill-item"><strong>Python</strong></span>
-      <span class="skill-item">Java</span>
-      <span class="skill-item">C/C++</span>
-      <span class="skill-item">MATLAB</span>
+<div class="grid__wrapper skills-grid">
+  <div class="grid__item skills-category">
+    <div class="archive__item">
+      <div class="archive__item-teaser skills-icon">
+        <i class="fas fa-code fa-3x" aria-hidden="true"></i>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Programming Languages</h2>
+        <div class="archive__item-excerpt">
+          <ul>
+            <li><strong>Python</strong> (Advanced)</li>
+            <li>Java</li>
+            <li>C/C++</li>
+            <li>MATLAB</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="skills-category">
-    <h2><i class="fas fa-database"></i> Data Science & Analysis</h2>
-    <div class="skills-list">
-      <span class="skill-item">Pandas</span>
-      <span class="skill-item">NumPy</span>
-      <span class="skill-item">SciPy</span>
-      <span class="skill-item">SQL</span>
+  <div class="grid__item skills-category">
+    <div class="archive__item">
+      <div class="archive__item-teaser skills-icon">
+        <i class="fas fa-database fa-3x" aria-hidden="true"></i>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Data Science & Analysis</h2>
+        <div class="archive__item-excerpt">
+          <ul>
+            <li>Pandas, NumPy, SciPy</li>
+            <li>SQL for database querying</li>
+            <li>Data cleaning & preprocessing</li>
+            <li>Statistical analysis</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="skills-category">
-    <h2><i class="fas fa-brain"></i> Machine Learning & AI</h2>
-    <div class="skills-list">
-      <span class="skill-item">Deep Learning</span>
-      <span class="skill-item">Computer Vision</span>
-      <span class="skill-item">YOLO models</span>
-      <span class="skill-item">Transformer models</span>
-      <span class="skill-item">Neural Networks</span>
-      <span class="skill-item">Optimization Algorithms</span>
+  <div class="grid__item skills-category">
+    <div class="archive__item">
+      <div class="archive__item-teaser skills-icon">
+        <i class="fas fa-brain fa-3x" aria-hidden="true"></i>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Machine Learning & AI</h2>
+        <div class="archive__item-excerpt">
+          <ul>
+            <li>Deep Learning</li>
+            <li>Computer Vision & Image Processing</li>
+            <li>YOLO models, Transformer models</li>
+            <li>Neural Networks & Optimization Algorithms</li>
+            <li>Object Detection & Image Segmentation</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="skills-category">
-    <h2><i class="fas fa-toolbox"></i> Frameworks & Libraries</h2>
-    <div class="skills-list">
-      <span class="skill-item"><strong>PyTorch</strong></span>
-      <span class="skill-item">TensorFlow</span>
-      <span class="skill-item">OpenCV</span>
-      <span class="skill-item">Scikit-learn</span>
-      <span class="skill-item">Matplotlib</span>
+  <div class="grid__item skills-category">
+    <div class="archive__item">
+      <div class="archive__item-teaser skills-icon">
+        <i class="fas fa-tools fa-3x" aria-hidden="true"></i>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Frameworks & Libraries</h2>
+        <div class="archive__item-excerpt">
+          <ul>
+            <li><strong>PyTorch</strong></li>
+            <li>TensorFlow</li>
+            <li>OpenCV</li>
+            <li>Scikit-learn</li>
+            <li>Matplotlib</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="skills-category">
-    <h2><i class="fas fa-desktop"></i> Software & Tools</h2>
-    <div class="skills-list">
-      <span class="skill-item">Jupyter Notebook</span>
-      <span class="skill-item">Visual Studio</span>
-      <span class="skill-item">PyCharm</span>
-      <span class="skill-item">Microsoft Office</span>
-      <span class="skill-item">Photoshop</span>
+  <div class="grid__item skills-category">
+    <div class="archive__item">
+      <div class="archive__item-teaser skills-icon">
+        <i class="fas fa-desktop fa-3x" aria-hidden="true"></i>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Software & Tools</h2>
+        <div class="archive__item-excerpt">
+          <ul>
+            <li>Jupyter Notebook</li>
+            <li>Visual Studio, PyCharm</li>
+            <li>Microsoft Office</li>
+            <li>Photoshop</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="skills-category">
-    <h2><i class="fas fa-code-branch"></i> Version Control & Collaboration</h2>
-    <div class="skills-list">
-      <span class="skill-item">GitHub</span>
-      <span class="skill-item">GitLab</span>
+  <div class="grid__item skills-category">
+    <div class="archive__item">
+      <div class="archive__item-teaser skills-icon">
+        <i class="fas fa-code-branch fa-3x" aria-hidden="true"></i>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Version Control & Collaboration</h2>
+        <div class="archive__item-excerpt">
+          <ul>
+            <li>GitHub</li>
+            <li>GitLab</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
-  <div class="skills-category">
-    <h2><i class="fas fa-users"></i> Soft Skills</h2>
-    <div class="skills-list">
-      <span class="skill-item">Teamwork</span>
-      <span class="skill-item">Leadership</span>
-      <span class="skill-item">Consultation</span>
-      <span class="skill-item">Research</span>
-      <span class="skill-item">Presentation</span>
-      <span class="skill-item">Teaching</span>
+  <div class="grid__item skills-category">
+    <div class="archive__item">
+      <div class="archive__item-teaser skills-icon">
+        <i class="fas fa-users fa-3x" aria-hidden="true"></i>
+      </div>
+      <div class="archive__item-body">
+        <h2 class="archive__item-title">Soft Skills</h2>
+        <div class="archive__item-excerpt">
+          <ul>
+            <li>Teamwork & Leadership</li>
+            <li>Research & Presentation</li>
+            <li>Teaching & Training</li>
+            <li>Consultation</li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
+<script src="https://kit.fontawesome.com/123abc123.js" crossorigin="anonymous"></script>
+
 <style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    margin-top: 2rem;
+  .skills-grid {
+    margin-top: 2em;
   }
   
   .skills-category {
-    flex-basis: 100%;
+    width: 100%;
+    margin-bottom: 1.5em;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  @media (min-width: 768px) {
+    .skills-category {
+      width: calc(50% - 1em);
+    }
+  }
+  
+  .skills-icon {
+    text-align: center;
+    padding: 1em 0;
     background-color: #f8f9fa;
-    border-radius: 8px;
-    padding: 1rem 1.5rem;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
-  
-  .skills-category h2 {
     color: #0366d6;
-    border-bottom: 2px solid #0366d6;
-    padding-bottom: 0.5rem;
-    margin-bottom: 1rem;
-    font-size: 1.5rem;
   }
   
-  .skills-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
+  .archive__item-body {
+    padding: 1em;
   }
   
-  .skill-item {
-    background-color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 30px;
-    border: 1px solid #ddd;
-    font-size: 0.9rem;
-    transition: all 0.3s ease;
+  .archive__item-title {
+    margin-top: 0;
+    color: #333;
   }
   
-  .skill-item:hover {
-    background-color: #0366d6;
-    color: white;
-    transform: translateY(-3px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  .archive__item-excerpt ul {
+    padding-left: 1.5em;
   }
 </style>
