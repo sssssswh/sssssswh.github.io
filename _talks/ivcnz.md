@@ -9,4 +9,15 @@ location: "Palmerston North, New Zealand"
 layout: single-talk
 ---
 
-This talk briefly introduced the instance segmentation of individual tree crowns, which is crucial for forest management, urban planning, and biodiversity modeling. While CNNs, especially Mask R-CNN, have shown success in this task, traditional backbones like ResNet struggle to extract sufficient features. In this work, we propose an improved Mask R-CNN with an enhanced backbone and a new mask branch for better segmentation in complex backgrounds. Our method effectively identifies and segments tree canopies in the Wellington dataset, demonstrating superior performance.
+This talk presented our novel approach to individual tree crown instance segmentation, introducing an enhanced Mask R-CNN architecture specifically designed for complex forestry and urban environments. I detailed our architectural improvements, including the modified backbone network and innovative mask branch, which together address the limitations of traditional CNN approaches in handling dense canopy scenarios. The presentation demonstrated how our method, evaluated on the Wellington urban forest dataset, successfully overcomes the challenges of feature extraction in varied conditions, particularly when dealing with overlapping crowns and complex background environments.
+
+## Talk Overview
+
+This talk presented our novel approach to individual tree crown instance segmentation, introducing an enhanced Mask R-CNN architecture specifically designed for complex forestry and urban environments. I detailed our architectural improvements, including the modified backbone network and innovative mask branch, which together address the limitations of traditional CNN approaches in handling dense canopy scenarios. The presentation demonstrated how our method, evaluated on the Wellington urban forest dataset, successfully overcomes the challenges of feature extraction in varied conditions, particularly when dealing with overlapping crowns and complex background environments.
+
+## Key Points Covered
+
+- Overview of individual tree crown segmentation challenges and limitations of traditional CNN approaches in handling complex forestry imagery
+- Technical details of our enhanced Mask R-CNN architecture, featuring an improved backbone network for better feature extraction
+- Introduction of a novel mask branch specifically designed to handle complex backgrounds and overlapping canopies
+- Comprehensive evaluation and performance analysis using the Wellington dataset, demonstrating superior accuracy compared to conventional methods
