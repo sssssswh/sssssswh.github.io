@@ -91,8 +91,8 @@ redirect_from:
 }
 
 .skills-heading {
-  color: #0366d6;
-  border-bottom: 2px solid #0366d6;
+  color: #2a76dd;
+  border-bottom: 2px solid #2a76dd;
   padding-bottom: 10px;
   margin-top: 0;
 }
@@ -109,7 +109,7 @@ redirect_from:
 
 .skills-section li:before {
   content: "•";
-  color: #0366d6;
+  color: #2a76dd;
   font-weight: bold;
   display: inline-block;
   width: 1em;
