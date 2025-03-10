@@ -31,18 +31,6 @@ redirect_from:
 
 
 
-<div markdown="1" class="cv-section">
-## Projects
-{: .section-heading}
-<ul class="projects-list" style="padding-left: 40px;">
-  {% for post in site.projects reversed %}
-    <li>
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink"><strong>{{ post.title }}</strong></a>
-    </li>
-  {% endfor %}
-</ul>
-</div>
-
 
 <div markdown="1" class="cv-section">
 ## Projects
