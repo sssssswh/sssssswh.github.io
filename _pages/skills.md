@@ -24,7 +24,7 @@ redirect_from:
 - Deep Learning, Computer Vision, Image Processing, Object Detection, Image Segmentation  
 - Expertise in:  
   - YOLO models, Transformer models  
-  - Neural Networks, Optimization Algorithms* 
+  - Neural Networks, Optimization Algorithms 
 
 ### 🔹 Frameworks & Libraries  
 - **PyTorch**, TensorFlow, OpenCV, Scikit-learn, Matplotlib 
