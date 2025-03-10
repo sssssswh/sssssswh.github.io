@@ -37,8 +37,7 @@ This project involved working with the Digital & AI team at Callaghan Innovation
 
 ## Tech Stack
 - **LLM Frameworks**: LangChain, Transformers
-- **Vector Databases**: Weaviate, Pinecone
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: Python
 - **Cloud Infrastructure**: AWS, Azure
 - **Embedding Models**: Various OpenAI and open-source models
 
