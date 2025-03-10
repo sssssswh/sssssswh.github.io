@@ -37,12 +37,12 @@ redirect_from:
 <ul class="projects-list">
   {% for post in site.projects reversed %}
     <li>
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink"><strong>{{ post.title }}</strong></a><br>
-      {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
 </div>
+
 
 <div markdown="1" class="cv-section">
 ## Skills
