@@ -97,13 +97,13 @@ redirect_from:
 {: .section-heading}
 
 ### 📌 PhD in Engineering and Computer Science  
-<div style="padding-left: 20px;">**Victoria University of Wellington** | 🎯 *Expected 2025*  
+<div style="padding-left: 20px;">**Victoria University of Wellington** | 🎯 *Expected 2025*</div>    
 
 ### 📌 MSc in Computer Science and Technology  
-<div style="padding-left: 20px;">**Shandong University of Finance and Economics** | 🎯 *2021*  
+<div style="padding-left: 20px;">**Shandong University of Finance and Economics** | 🎯 *2021*</div>    
 
 ### 📌 BSc in Computer Science and Technology  
-<div style="padding-left: 20px;">**Shandong University of Finance and Economics** | 🎯 *2018*  
+<div style="padding-left: 20px;">**Shandong University of Finance and Economics** | 🎯 *2018*</div>    
 </div>
 
 
@@ -111,11 +111,11 @@ redirect_from:
 ## Interests
 {: .section-heading}
 
-**Outdoor Activities:** Hiking 🚶, Fishing 🎣, Cycling 🚴, Swimming 🏊  
+- **Outdoor Activities:** Hiking 🚶, Fishing 🎣, Cycling 🚴, Swimming 🏊  
 
-**Intellectual Hobbies:** Reading 📖, Researching 🧠  
+- **Intellectual Hobbies:** Reading 📖, Researching 🧠  
 
-**Sports & Fitness:** Badminton 🏸, Gym 💪  
+- **Sports & Fitness:** Badminton 🏸, Gym 💪  
 </div>
 
 <style>
