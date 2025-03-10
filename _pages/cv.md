@@ -29,18 +29,19 @@ redirect_from:
 - *Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler*
 </div>
 
+
 <div markdown="1" class="cv-section">
 ## Projects
 {: .section-heading}
 
-<div class="projects-list">
+<ul class="projects-list">
   {% for post in site.projects reversed %}
-    <div class="project-item">
-      <h3><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h3>
+    <li>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink"><strong>{{ post.title }}</strong></a><br>
       {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-    </div>
+    </li>
   {% endfor %}
-</div>
+</ul>
 </div>
 
 <div markdown="1" class="cv-section">
