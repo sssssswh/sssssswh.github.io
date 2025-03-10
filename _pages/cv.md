@@ -95,12 +95,12 @@ redirect_from:
 ## Education
 {: .section-heading}
   
--  📌 PhD in Engineering and Computer Science  
--   Victoria University of Wellington | 🎯 Expected 2025  
--  📌 MSc in Computer Science and Technology  
--   Shandong University of Finance and Economics | 🎯 2021  
-- 📌 BSc in Computer Science and Technology  
--   Shandong University of Finance and Economics | 🎯 2018  
+### 📌 PhD in Engineering and Computer Science  
+###  Victoria University of Wellington | 🎯 Expected 2025  
+### 📌 MSc in Computer Science and Technology  
+###  Shandong University of Finance and Economics | 🎯 2021  
+### 📌 BSc in Computer Science and Technology  
+###  Shandong University of Finance and Economics | 🎯 2018  
 </div>
 
 
