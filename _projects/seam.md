@@ -7,7 +7,7 @@ layout: single-project
 
 ## Project Overview
 
-This project was conducted in collaboration with two major Chinese automotive manufacturers: FAW (China First Automobile Works) and China National Heavy Duty Truck Group. The goal was to develop an automated system for precise detection and rapid positioning of weld seams on wheel hubs, a critical component in vehicle manufacturing quality control.
+This project was conducted in collaboration with two major Chinese automotive manufacturers: **FAW (China First Automobile Works)** and **China National Heavy Duty Truck Group**. The goal was to develop an automated system for precise detection and rapid positioning of weld seams on wheel hubs, a critical component in vehicle manufacturing quality control.
 
 ## Key Contributions  
 - Collaborated on **data collection, cleaning, and labeling**, followed by analysis to derive actionable insights.
