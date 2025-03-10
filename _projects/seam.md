@@ -31,11 +31,11 @@ This project was conducted in collaboration with two major Chinese automotive ma
 - System has been in continuous operation since deployment with minimal maintenance requirements.
 
 ## Tech Stack
-- **Machine Learning Frameworks**: PyTorch, TensorFlow
-- **Computer Vision Libraries**: OpenCV, CUDA
-- **Programming Languages**: Python, C++
-- **Deployment**: Industrial edge computing devices, custom hardware integration
-- **Database**: PostgreSQL for defect tracking and quality management
+
+- **Python** for model development and data processing
+- **GitHub** for version control and collaboration
+- **YOLO** architectures for detection and initial segmentation
+- **Transformer** models for improved feature learning
 
 ## Impact
 This system significantly improved quality control processes at both automotive manufacturers, leading to better product reliability, reduced waste, and enhanced production efficiency. The high accuracy and reliability of the detection system have made it a standard component in the wheel hub manufacturing process.
