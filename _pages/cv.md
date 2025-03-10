@@ -115,7 +115,7 @@ Shandong University of Finance and Economics | 🎯 2018
 
 <style>
 .education-entry {
-  padding-left: 40px;
+  padding-left: 25px;
 }
 </style>
 
