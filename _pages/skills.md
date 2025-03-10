@@ -20,6 +20,17 @@ redirect_from:
 </div>
 
 <div markdown="1" class="skills-section">
+## Frameworks & Libraries
+{: .skills-heading}
+
+* **PyTorch**
+* TensorFlow
+* OpenCV
+* Scikit-learn
+* Matplotlib
+</div>
+
+<div markdown="1" class="skills-section">
 ## Data Science & Analysis
 {: .skills-heading}
 
@@ -30,7 +41,7 @@ redirect_from:
 </div>
 
 <div markdown="1" class="skills-section">
-## Machine Learning & AI
+## AI & Machine Learning 
 {: .skills-heading}
 
 * Deep Learning
@@ -42,16 +53,6 @@ redirect_from:
 * Image Segmentation
 </div>
 
-<div markdown="1" class="skills-section">
-## Frameworks & Libraries
-{: .skills-heading}
-
-* **PyTorch**
-* TensorFlow
-* OpenCV
-* Scikit-learn
-* Matplotlib
-</div>
 
 <div markdown="1" class="skills-section">
 ## Software & Tools
@@ -72,7 +73,7 @@ redirect_from:
 </div>
 
 <div markdown="1" class="skills-section">
-## Soft Skills
+## Interpersonal & Professional Skills
 {: .skills-heading}
 
 * Teamwork & Leadership
