@@ -111,11 +111,11 @@ redirect_from:
 ## Interests
 {: .section-heading}
 
--  **Outdoor Activities:** Hiking 🚶, Fishing 🎣, Cycling 🚴, Swimming 🏊  
+**Outdoor Activities:** Hiking 🚶, Fishing 🎣, Cycling 🚴, Swimming 🏊  
 
--  **Intellectual Hobbies:** Reading 📖, Researching 🧠  
+**Intellectual Hobbies:** Reading 📖, Researching 🧠  
 
--  **Sports & Fitness:** Badminton 🏸, Gym 💪  
+**Sports & Fitness:** Badminton 🏸, Gym 💪  
 </div>
 
 <style>
