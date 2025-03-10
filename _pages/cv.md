@@ -48,48 +48,25 @@ redirect_from:
 ## Skills
 {: .section-heading}
 
-<div class="skills-wrapper">
-  <div markdown="1" class="skills-subsection">
-### Programming Languages
-{: .subsection-heading}
-* **Python** (Advanced)
-* Java
-* C/C++
-* MATLAB
-  </div>
+-  **Computer Languages**: Advanced in Python, Java, C/C++, MATLAB.  
 
-  <div markdown="1" class="skills-subsection">
-### Data Science & Analysis
-{: .subsection-heading}
-* Pandas, NumPy, SciPy
-* SQL for database querying
-* Data Visualization
-* Statistical Analysis
-  </div>
+-  **Data Analysis**: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.  
 
-  <div markdown="1" class="skills-subsection">
-### Machine Learning & AI
-{: .subsection-heading}
-* Deep Learning
-* Computer Vision & Image Processing
-* Neural Networks
-* YOLO Models
-* Transformer Models
-* Object Detection
-* Image Segmentation
-  </div>
+-  **Databases**: Familiar with SQL.  
 
-  <div markdown="1" class="skills-subsection">
-### Frameworks & Libraries
-{: .subsection-heading}
-* **PyTorch**
-* TensorFlow
-* OpenCV
-* Scikit-learn
-* Matplotlib
-  </div>
+-  **Framework and Libraries**: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.  
+
+-  **Algorithms**: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.  
+
+-  **Softwares**: Jupyter, Visual Studio, PyCharm, Microsoft Office, Photoshop.  
+
+-  **Repositories**: GitHub, GitLab.  
+
+-  **Interpersonal Skills**: Team work, leadership, and consultation.  
+
+-  **Academic and Professional Skills**: Research, presentation, teaching, and training.  
 </div>
-</div>
+
 
 <div markdown="1" class="cv-section">
 ## Publications
@@ -102,6 +79,7 @@ redirect_from:
 </ul>
 </div>
 
+
 <div markdown="1" class="cv-section">
 ## Talks
 {: .section-heading}
@@ -112,6 +90,7 @@ redirect_from:
   {% endfor %}
 </ul>
 </div>
+
 
 <div markdown="1" class="cv-section">
 ## Education
@@ -126,6 +105,7 @@ redirect_from:
 ### 📌 BSc in Computer Science and Technology  
 **Shandong University of Finance and Economics** | 🎯 *2018*  
 </div>
+
 
 <div markdown="1" class="cv-section">
 ## Interests
