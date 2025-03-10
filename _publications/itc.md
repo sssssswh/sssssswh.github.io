@@ -1,5 +1,5 @@
 ---
-title: "YOLO-ITC: A New YOLO Method for Instance Segmentation of Individual Tree Crowns."
+title: "YOLO-ITC: A New YOLO Method for Instance Segmentation of Individual Tree Crowns"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-01-itc-instance-segmentation
