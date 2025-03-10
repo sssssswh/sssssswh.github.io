@@ -34,7 +34,7 @@ redirect_from:
 ## Projects
 {: .section-heading}
 
-<ul class="projects-list">
+<ul class="projects-list" style="padding-left: 25px;">
   {% for post in site.projects reversed %}
     <li>
       <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
@@ -72,7 +72,7 @@ redirect_from:
 ## Publications
 {: .section-heading}
 
-<ul class="publications-list">
+<ul class="publications-list" style="padding-left: 25px;">
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
@@ -84,7 +84,7 @@ redirect_from:
 ## Talks
 {: .section-heading}
 
-<ul class="talks-list">
+<ul class="talks-list" style="padding-left: 25px;">
   {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
