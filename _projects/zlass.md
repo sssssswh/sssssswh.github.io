@@ -1,6 +1,6 @@
 ---
 title: "Glass Flaw Detection and Positioning System"
-excerpt: "Engaged in a project with **Laiwu Lianyun Glass Company** in **China**, focusing on precise detection and real-time positioning of flaws in various types of glass, 2021<br/><img src='/images/boli.png'>"
+excerpt: "Engaged in a project with **Laiwu Lianyun Glass Company** in **China**, focusing on precise detection and real-time positioning of flaws in various types of glass, 2021<br/><br/><img src='/images/boli.png' width='750'>"
 collection: projects
 layout: single-project
 ---
