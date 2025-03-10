@@ -10,7 +10,7 @@ authors:
   - "[Mengjie Zhang](https://people.wgtn.ac.nz/mengjie.zhang)"
   - "[Jan Schindler](https://www.landcareresearch.co.nz/about-us/our-people/jan-schindler)"
 venue: "IEEE Transactions on Emerging Topics in Computational Intelligence"
-paperurl: "[https://ieeexplore.ieee.org/document/10915656](https://ieeexplore.ieee.org/document/10915656)"
+paperurl: "https://ieeexplore.ieee.org/document/10915656"
 layout: single-publication
 ---
 
