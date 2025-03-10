@@ -7,39 +7,42 @@ layout: single-project
 
 ## Project Overview
 
-This project was developed in collaboration with **Laiwu Lianyun Glass Company** in China to create an automated system for detecting and precisely locating flaws in various types of glass products. The system needed to identify defects in real-time during the manufacturing process across flat, specialty, and decorative glass products.
+This project was developed in collaboration with **Laiwu Lianyun Glass Company** in China to create an automated system for detecting and precisely locating flaws in various types of glass products. Despite advances in glass manufacturing technology, defects like bubbles and inclusions inevitably occur during processes such as vacuum magnetron sputtering, affecting both performance and appearance. Manual inspection, the prevailing method, was becoming inadequate due to increased production speeds and quality requirements.
 
 ## Key Contributions  
-- Contributed to team efforts in **building a dataset** for glass defect detection, including:  
+- Contributed to team efforts in **building a specialized dataset** for glass defect detection, including:  
   - Collecting data from production lines
   - Employing **image processing techniques** to enhance defect features  
-  - Manually labeling defects across different glass types
-  - Establishing a comprehensive database categorized by defect types
-- Developed a **comprehensive AI-based pipeline** using **deep learning models (YOLO)** for automated glass defect detection.
-- Designed a multi-stage detection system to handle different types of defects (scratches, bubbles, inclusions, etc.)
-- Presented project outcomes to clients and facilitated **system integration** into practical applications, ensuring seamless adoption and functionality in real-world settings.
-- Trained production staff on system operation and basic troubleshooting procedures.
+  - Developing robust image preprocessing solutions including color recognition, area and length measurement, image enhancement, edge sharpening, and noise reduction
+  - Establishing a comprehensive database categorized by defect types and product models
+- Developed a **comprehensive AI-based pipeline** using **deep learning models (YOLO)** optimized for small object detection challenges.
+- Designed a multi-scale learning network to identify and quantify critical image features through multi-scale context fusion.
+- Implemented a dual attention mechanism incorporating both Channel Attention Module and Spatial Attention Module to effectively filter noise and enhance feature representation.
+- Created a complete optical imaging solution specifically tailored for glass defect visualization.
 
 ## Methodology
-- Implemented advanced lighting systems to optimize defect visibility
-- Developed custom image preprocessing techniques specific to transparent and reflective materials
-- Created specialized data augmentation methods to increase training data diversity
-- Applied transfer learning approaches to improve model generalization across glass types
-- Designed a modular software architecture to allow for easy updates and customizations
+- Designed a specialized optical imaging setup with blue coaxial lighting that showed excellent visibility for most glass defects
+- Implemented a non-contact system leveraging glass transparency properties to prevent secondary damage
+- Developed a right-angle conveyor design to capture images of all four edges without stopping
+- Applied advanced image processing techniques for data preprocessing and augmentation
+- Utilized LabelIMG software to perform 2D rectangular box marking of various defect types
+- Constructed a database with thousands of defect samples after thorough data cleaning
+- Implemented a One-Stage detector with multi-scale learning and mixed attention mechanisms to balance speed and accuracy
 
 ## Achievements  
-- Achieved **over 93% accuracy** in detecting flaws across various types of glass, including **flat, specialty, and decorative glass**.
-- Successfully deployed the system in a production environment operating at full manufacturing speeds.
-- Reduced manual inspection labor costs by approximately 70%.
-- Decreased customer returns due to undetected defects by 85%.
-- System capable of detecting defects as small as 0.5mm in size.
+- Achieved a **detection rate of 93%** and a **precision rate of 95%** in test environments.
+- Successfully deployed the system in production environments operating at full manufacturing speeds.
+- Created a complete detection workflow with integrated automated marking systems.
+- Developed a model capable of detecting small-target defects that are difficult to observe with the naked eye.
+- System supports real-time detection with edge computing deployment on NVIDIA Jetson Xavier modules offering 32 TOPS of AI performance.
 
 ## Tech Stack
-- **Deep Learning Frameworks**: PyTorch, TensorFlow
-- **Computer Vision**: OpenCV, custom image processing libraries
-- **Programming Languages**: Python, C++
-- **Interface**: Qt-based GUI for operator monitoring and control
-- **Database**: MySQL for defect logging and quality reporting
+- **Deep Learning Frameworks**: PyTorch for model development
+- **Computer Vision**: OpenCV for comprehensive image preprocessing
+- **Programming Languages**: Python for algorithm development
+- **Edge Computing Hardware**: NVIDIA Jetson Xavier for deployment
+- **YOLO** architecture with custom modifications for glass defect detection
+- **Attention Mechanisms**: Channel and Spatial attention modules for feature enhancement
 
 ## Impact
-The implementation of this automated glass flaw detection system significantly improved product quality while reducing production costs for Laiwu Lianyun Glass Company. The system has become an integral part of their quality assurance process and has contributed to their reputation for high-quality glass products in the Chinese market.
+The implementation of this automated glass flaw detection system significantly improved product quality while reducing production costs for Laiwu Lianyun Glass Company. The system is now widely applied in industrial machine vision applications for flat glass, specialty glass, and decorative glass inspection. Its combined detection speed and accuracy have delivered exceptional results in real-world applications.
