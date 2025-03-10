@@ -91,22 +91,18 @@ redirect_from:
 </ul>
 </div>
 
-
-
-
 <div markdown="1" class="cv-section">
 ## Education
 {: .section-heading}
-
+  
 ### 📌 PhD in Engineering and Computer Science  
-<div style="padding-left: 20px;">**Victoria University of Wellington** | 🎯 *Expected 2025*</div>  
-
+  Victoria University of Wellington | 🎯 Expected 2025  
 ### 📌 MSc in Computer Science and Technology  
-<div style="padding-left: 20px;">**Shandong University of Finance and Economics** | 🎯 *2021*</div>  
-
+  Shandong University of Finance and Economics | 🎯 2021  
 ### 📌 BSc in Computer Science and Technology  
-<div style="padding-left: 20px;">**Shandong University of Finance and Economics** | 🎯 *2018*</div>  
+  Shandong University of Finance and Economics | 🎯 2018  
 </div>
+
 
 
 <div markdown="1" class="cv-section">
