@@ -9,10 +9,8 @@ location: "Palmerston North, New Zealand"
 layout: single-talk
 ---
 
-This talk presented our novel approach to individual tree crown instance segmentation, introducing an enhanced Mask R-CNN architecture specifically designed for complex forestry and urban environments. I detailed our architectural improvements, including the modified backbone network and innovative mask branch, which together address the limitations of traditional CNN approaches in handling dense canopy scenarios. The presentation demonstrated how our method, evaluated on the Wellington urban forest dataset, successfully overcomes the challenges of feature extraction in varied conditions, particularly when dealing with overlapping crowns and complex background environments.
 
 ## Talk Overview
-
 This talk presented our novel approach to individual tree crown instance segmentation, introducing an enhanced Mask R-CNN architecture specifically designed for complex forestry and urban environments. I detailed our architectural improvements, including the modified backbone network and innovative mask branch, which together address the limitations of traditional CNN approaches in handling dense canopy scenarios. The presentation demonstrated how our method, evaluated on the Wellington urban forest dataset, successfully overcomes the challenges of feature extraction in varied conditions, particularly when dealing with overlapping crowns and complex background environments.
 
 ## Key Points Covered
