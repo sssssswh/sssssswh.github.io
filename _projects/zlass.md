@@ -7,7 +7,7 @@ layout: single-project
 
 ## Project Overview
 
-This project was developed in collaboration with Laiwu Lianyun Glass Company in China to create an automated system for detecting and precisely locating flaws in various types of glass products. The system needed to identify defects in real-time during the manufacturing process across flat, specialty, and decorative glass products.
+This project was developed in collaboration with **Laiwu Lianyun Glass Company** in China to create an automated system for detecting and precisely locating flaws in various types of glass products. The system needed to identify defects in real-time during the manufacturing process across flat, specialty, and decorative glass products.
 
 ## Key Contributions  
 - Contributed to team efforts in **building a dataset** for glass defect detection, including:  
