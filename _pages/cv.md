@@ -45,11 +45,11 @@ redirect_from:
 
 
 <div markdown="1" class="cv-section">
-## Publications
+## Projects
 {: .section-heading}
 
-<ul class="publications-list" style="padding-left: 40px;">
-  {% for post in site.publications reversed %}
+<ul class="projects-list" style="padding-left: 40px;">
+  {% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
