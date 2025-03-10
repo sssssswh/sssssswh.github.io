@@ -13,6 +13,7 @@ authors:
   - "Caiming Zhang"
 venue: "ACM Transactions on Multimedia Computing, Communications, and Applications"
 paperurl: "[https://doi.org/10.1016/j.cviu.2020.103133](https://doi.org/10.1145/3478457)"
+layout: single-publication
 ---
 
 
