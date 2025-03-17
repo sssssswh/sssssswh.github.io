@@ -53,7 +53,9 @@ redirect_from:
 
 -  **Databases**: Familiar with SQL.  
 
--  **Framework and Libraries**: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.  
+-  **Framework and Libraries**: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.
+
+-  **Cloud Platforms**: Azure AI Studio, AWS, Google Cloud
 
 -  **Algorithms**: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.  
 
