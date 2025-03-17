@@ -47,12 +47,20 @@ redirect_from:
 * Deep Learning
 * Computer Vision & Image Processing
 * Neural Networks
+* Large Language Models
 * YOLO Models
 * Transformer Models
 * Object Detection
 * Image Segmentation
 </div>
 
+<div markdown="1" class="skills-section">
+## Cloud Platforms
+{: .skills-heading}
+* Azure AI Studio
+* AWS
+* Google Cloud
+</div>
 
 <div markdown="1" class="skills-section">
 ## Software & Tools
