@@ -99,17 +99,17 @@ redirect_from:
 {: .section-heading}
 
 <div class="education-entry">
-### 📌 PhD in Engineering and Computer Science  
+### 📌 PhD in Artificial Intelligence  
 Victoria University of Wellington | 🎯 Expected 2025  
 </div>
 
 <div class="education-entry">
-### 📌 MSc in Computer Science and Technology  
+### 📌 MSc in Computer Application Technology  
 Shandong University of Finance and Economics | 🎯 2021  
 </div>
 
 <div class="education-entry">
-### 📌 BSc in Computer Science and Technology  
+### 📌 BSc in Digital Media Technology  
 Shandong University of Finance and Economics | 🎯 2018  
 </div>
 </div>
