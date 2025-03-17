@@ -14,7 +14,7 @@ I am Zoey, a skilled data scientist with a strong background in artificial intel
 
 Throughout my Ph.D., I collaborated with [Manaaki Whenua – Landcare Research](https://www.landcareresearch.co.nz/), applying AI techniques to solve real-world challenges, especially tree crown segmentation. My internship at Callaghan Innovation involves contributing to cutting-edge LLM projects like GovGPT and PaperBoi. I am currently working as a Research Assistant at Victoria University of Wellington.
 
-I am currently **open to work** and actively seeking full-time opportunities in data science, AI research, and machine learning engineering. I am particularly interested in roles that involve AI, deep learning, and applied AI solutions in both academia and industry.  
+Now, I seek roles where I can apply my AI expertise to create innovative solutions with industry impact. 
 
 Let’s connect! 🚀
 
