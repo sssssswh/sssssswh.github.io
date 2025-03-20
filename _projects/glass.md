@@ -30,8 +30,7 @@ This project was developed in collaboration with **Laiwu Lianyun Glass Company**
 - Achieved a **detection rate of 93%** and a **precision rate of 95%** in test environments.
 - Successfully deployed the system in production environments operating at full manufacturing speeds.
 - Created a complete detection workflow with integrated automated marking systems.
-- Developed a model capable of detecting small-target defects that are difficult to observe with the naked eye.
-- System supports real-time detection with edge computing deployment on NVIDIA Jetson Xavier modules offering 32 TOPS of AI performance.
+- Developed a model capable of detecting small-target defects that are difficult to observe with the naked eye..
 
 ## Tech Stack
 - PyTorch, OpenCV, Python, YOLO, Attention Mechanisms.
