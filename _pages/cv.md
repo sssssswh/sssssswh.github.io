@@ -48,8 +48,8 @@ redirect_from:
   
 -  **AI & Machine Learning Techniques**:
 -  Deep Learning: Neural Networks, Large Language Models, YOLO Models, Transformer Models
--  Computer Vision: Image Classification, Object Detection, Image Segmentation
--  Image Dehazing; Large Language Models: RAG, GraphRAG, OpenAI API, AI Agent
+-  Computer Vision: Image Classification, Object Detection, Image Segmentation, Image Dehazing
+-  Large Language Models: RAG, GraphRAG, OpenAI API, AI Agent
 
 -  **Computer Languages**: **Python** (Advanced), Java, C/C++, MATLAB, LaTeX, Markdown
 
