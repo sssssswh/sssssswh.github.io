@@ -29,7 +29,7 @@ This project involved working with the Digital & AI team at **Callaghan Innovati
 - Translation of technical scientific content into accessible explanations
 
 ## Tech Stack
-- Python, AWS, Azure, LLMs, RAG, GraphRAG, Github
+- Python, AWS, Azure, LLMs, RAG, GraphRAG, Github, Markdown
 
 ## Impact
 These systems help bridge the gap between complex information and public understanding, making government services and scientific research more accessible to New Zealanders. They demonstrate the practical application of cutting-edge AI technology to solve real-world information access problems.
