@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV as PDF](../files/cv.pdf){: .btn .btn--primary}
+
 <div markdown="1" class="cv-section">
 ## Work Experience
 {: .section-heading}
