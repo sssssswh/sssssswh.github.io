@@ -2,7 +2,7 @@
 title: "An Improved Mask R-CNN for Instance Segmentation of Tree Crowns in Aerial Imagery"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/2023-ivcnz
 venue: "2023 38th International Conference on Image and Vision Computing New Zealand"
 date: 2023-11-30
 location: "Palmerston North, New Zealand"
