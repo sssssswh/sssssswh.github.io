@@ -53,9 +53,12 @@ redirect_from:
 
 -  **Computer Languages**: **Python** (Advanced), Java, C/C++, MATLAB, LaTeX, Markdown
 
--  **Machine Learning Libraries**: **PyTorch**(Advanced), TensorFlow, OpenCV, Scikit-learn, Matplotlib
+-  **Machine Learning Libraries**: **PyTorch** (Advanced), TensorFlow, OpenCV, Scikit-learn, Matplotlib
 
--  **Data Science & Analysis**: Pandas, NumPy, Scipy; SQL for database querying; Data Visualization & Statistical Analysis
+-  **Data Science & Analysis**:
+   -  Pandas, NumPy, Scipy
+   -  SQL for database querying
+   -  Data Visualization & Statistical Analysis
 
 -  **Cloud Platforms**: Azure AI Studio, AWS, Google Cloud 
 
