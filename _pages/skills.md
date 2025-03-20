@@ -10,24 +10,31 @@ redirect_from:
 {% include base_path %}
 
 <div markdown="1" class="skills-section">
-## Programming Languages
+## AI & Machine Learning Techniques
 {: .skills-heading}
 
-* **Python** (Advanced)
-* Java
-* C/C++
-* MATLAB
+* Deep Learning
+* Neural Networks
+* Large Language Models
+* YOLO Models
+* Transformer Models
+* Computer Vision & Image Processing
+* Object Detection
+* Image Segmentation
 </div>
 
 <div markdown="1" class="skills-section">
-## Frameworks & Libraries
+## Programming Languages
 {: .skills-heading}
 
-* **PyTorch**
-* TensorFlow
-* OpenCV
-* Scikit-learn
-* Matplotlib
+* **Python** (Advanced), Java, C/C++, MATLAB, LaTeX, Markdown
+</div>
+
+<div markdown="1" class="skills-section">
+## Machine Learning Libraries
+{: .skills-heading}
+
+* **PyTorch** (Advanced), TensorFlow, OpenCV, Scikit-learn, Matplotlib
 </div>
 
 <div markdown="1" class="skills-section">
@@ -40,54 +47,33 @@ redirect_from:
 * Statistical Analysis
 </div>
 
-<div markdown="1" class="skills-section">
-## AI & Machine Learning 
-{: .skills-heading}
 
-* Deep Learning
-* Computer Vision & Image Processing
-* Neural Networks
-* Large Language Models
-* YOLO Models
-* Transformer Models
-* Object Detection
-* Image Segmentation
-</div>
 
 <div markdown="1" class="skills-section">
 ## Cloud Platforms
 {: .skills-heading}
-* Azure AI Studio
-* AWS
-* Google Cloud
+* Azure AI Studio, AWS, Google Cloud
 </div>
 
 <div markdown="1" class="skills-section">
 ## Software & Tools
 {: .skills-heading}
 
-* Jupyter Notebook
-* Visual Studio, PyCharm
-* Microsoft Office
-* Photoshop
+* Jupyter Notebook, Visual Studio, PyCharm, Microsoft Office, Photoshop
 </div>
 
 <div markdown="1" class="skills-section">
 ## Version Control & Collaboration
 {: .skills-heading}
 
-* GitHub
-* GitLab
+* GitHub, GitHub codespace
 </div>
 
 <div markdown="1" class="skills-section">
 ## Interpersonal & Professional Skills
 {: .skills-heading}
 
-* Teamwork & Leadership
-* Research & Presentation
-* Teaching & Training
-* Consultation
+* Teamwork, Research, Tutorial, Academic Consultation
 </div>
 
 <style>
