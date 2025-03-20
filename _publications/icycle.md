@@ -2,7 +2,7 @@
 title: "ICycleGAN: Single Image Dehazing Based on Iterative Dehazing Model and CycleGAN"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-02-01-yolov8e-instance-segmentation
+permalink: /publication/2021-02-01-ICycleGAN
 date: 2021-02-01 
 authors:
   - "Ziyi Sun"
