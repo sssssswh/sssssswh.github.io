@@ -13,21 +13,18 @@ This project was developed in collaboration with **Laiwu Lianyun Glass Company**
 - Contributed to team efforts in **building a specialized dataset** for glass defect detection, including:  
   - Collecting data from production lines
   - Employing **image processing techniques** to enhance defect features  
-  - Developing robust image preprocessing solutions including color recognition, area and length measurement, image enhancement, edge sharpening, and noise reduction
   - Establishing a comprehensive database categorized by defect types and product models
 - Developed a **comprehensive AI-based pipeline** using **deep learning models (YOLO)** optimized for small object detection challenges.
-- Designed a multi-scale learning network to identify and quantify critical image features through multi-scale context fusion.
-- Implemented a dual attention mechanism incorporating both Channel Attention Module and Spatial Attention Module to effectively filter noise and enhance feature representation.
-- Created a complete optical imaging solution specifically tailored for glass defect visualization.
+- Designed a novel CNN network to identify and quantify critical image features through multi-scale context fusion.
+
+
 
 ## Methodology
-- Designed a specialized optical imaging setup with blue coaxial lighting that showed excellent visibility for most glass defects
-- Implemented a non-contact system leveraging glass transparency properties to prevent secondary damage
-- Developed a right-angle conveyor design to capture images of all four edges without stopping
 - Applied advanced image processing techniques for data preprocessing and augmentation
 - Utilized LabelIMG software to perform 2D rectangular box marking of various defect types
 - Constructed a database with thousands of defect samples after thorough data cleaning
 - Implemented a One-Stage detector with multi-scale learning and mixed attention mechanisms to balance speed and accuracy
+- Implemented a dual attention mechanism incorporating both Channel Attention Module and Spatial Attention Module to effectively filter noise and enhance feature representation.
 
 ## Achievements  
 - Achieved a **detection rate of 93%** and a **precision rate of 95%** in test environments.
