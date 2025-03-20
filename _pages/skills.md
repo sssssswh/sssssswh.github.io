@@ -14,7 +14,7 @@ redirect_from:
 {: .skills-heading}
 
 * Deep Learning: Neural Networks, Large Language Models, YOLO Models, Transformer Models
-* Computer Vision： Image Classification, Object Detection, Image Segmentation, Image Dehazing
+* Computer Vision: Image Classification, Object Detection, Image Segmentation, Image Dehazing
 * Large Language Models: RAG, GraphRAG, OpenAI API, AI Agent
 </div>
 
@@ -38,8 +38,7 @@ redirect_from:
 
 * Pandas, NumPy, SciPy
 * SQL for database querying
-* Data Visualization
-* Statistical Analysis
+* Data Visualization & Statistical Analysis
 </div>
 
 
