@@ -97,7 +97,7 @@ redirect_from:
 
 <div class="education-entry">
 ### 📌 PhD in Artificial Intelligence  
-Victoria University of Wellington | 🎯 Expected 2025  
+Victoria University of Wellington | 🎯 2025  
 </div>
 
 <div class="education-entry">
