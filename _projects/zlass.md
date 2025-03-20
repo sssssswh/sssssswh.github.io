@@ -37,12 +37,7 @@ This project was developed in collaboration with **Laiwu Lianyun Glass Company**
 - System supports real-time detection with edge computing deployment on NVIDIA Jetson Xavier modules offering 32 TOPS of AI performance.
 
 ## Tech Stack
-- **Deep Learning Frameworks**: PyTorch for model development
-- **Computer Vision**: OpenCV for comprehensive image preprocessing
-- **Programming Languages**: Python for algorithm development
-- **Edge Computing Hardware**: NVIDIA Jetson Xavier for deployment
-- **YOLO** architecture with custom modifications for glass defect detection
-- **Attention Mechanisms**: Channel and Spatial attention modules for feature enhancement
+- PyTorch, OpenCV, Python, YOLO, Attention Mechanisms.
 
 ## Impact
 The implementation of this automated glass flaw detection system significantly improved product quality while reducing production costs for Laiwu Lianyun Glass Company. The system is now widely applied in industrial machine vision applications for flat glass, specialty glass, and decorative glass inspection. Its combined detection speed and accuracy have delivered exceptional results in real-world applications.
