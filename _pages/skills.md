@@ -14,7 +14,7 @@ redirect_from:
 {: .skills-heading}
 
 * Deep Learning: Neural Networks, Large Language Models, YOLO Models, Transformer Models
-* Computer Vision & Image Processing： Image Classification, Object Detection, Image Segmentation, Image Dehazing
+* Computer Vision： Image Classification, Object Detection, Image Segmentation, Image Dehazing
 </div>
 
 <div markdown="1" class="skills-section">
