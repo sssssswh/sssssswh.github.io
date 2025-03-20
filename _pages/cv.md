@@ -23,7 +23,7 @@ redirect_from:
 
 ### 📌 Doctoral Researcher (Oct 2021 - Feb 2025)  
 **Victoria University of Wellington**  
-- *Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler*
+*Supervisors: Bing Xue, Mengjie Zhang, Jan Schindler*
 </div>
 
 
