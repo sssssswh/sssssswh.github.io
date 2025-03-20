@@ -7,14 +7,12 @@ layout: single-project
 
 ## Project Overview
 
-This project was conducted in collaboration with two major Chinese automotive manufacturers: **FAW (China First Automobile Works)** and **China National Heavy Duty Truck Group**. The goal was to develop an automated system for precise detection and rapid positioning of weld seams on wheel hubs, a critical component in vehicle manufacturing quality control. Traditional inspection methods faced significant challenges in terms of operational difficulty, low efficiency, environmental concerns, and safety issues.
+This project was conducted in collaboration with two Chinese automotive manufacturers: **FAW (China First Automobile Works)** and **China National Heavy Duty Truck Group**. The goal was to develop an automated system for precise detection and rapid positioning of weld seams on wheel hubs, a critical component in vehicle manufacturing quality control. Traditional inspection methods faced significant challenges in terms of operational difficulty, low efficiency, environmental concerns, and safety issues.
 
 ## Key Contributions  
 - Collaborated on **data collection, cleaning, and labeling**, followed by analysis to derive actionable insights.
 - Built **targeted CNN models (YOLO)** to locate and detect weld seams on wheel hubs.
 - Designed a comprehensive optical imaging solution including camera selection, lens configuration, and lighting setup.
-- Implemented a specialized detection algorithm that can complete weld seam identification with just a single 180° rotation.
-- Engineered a mechanical arm control system compatible with 25 different wheel hub models.
 - Developed a lightweight object detection algorithm to ensure real-time processing capabilities.
 
 ## Methodology
@@ -33,12 +31,7 @@ This project was conducted in collaboration with two major Chinese automotive ma
 - Created a complete production line integration solution with automated detection and positioning.
 
 ## Tech Stack
-- **Python** for algorithm development and system integration
-- **PyTorch** for deep learning model development
-- **OpenCV** for image preprocessing and analysis
-- **YOLO** architecture customized for weld seam detection
-- **PLC** systems for industrial control and automation
-- **Industrial cameras** with high frame rate and resolution capabilities
+- Python, PyTorch, OpenCV, YOLO
 
 ## Impact
 This system significantly improved quality control processes at both automotive manufacturers, leading to better product reliability, reduced waste, and enhanced production efficiency. The high accuracy and reliability of the detection system have made it a standard component in the wheel hub manufacturing process.
