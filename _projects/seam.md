@@ -19,7 +19,7 @@ This project was conducted in collaboration with two Chinese automotive manufact
 - Created 3D visualization models to design the positional relationship between cameras and light sources
 - Validated equipment parameters through data collection and evaluation in real-world environments
 - Designed and optimized CNN architectures specifically for weld seam characteristics
-- Implemented a dual-camera system: Camera A for weld seam identification and Camera B for position verification
+- Implemented a dual-camera system for weld seam identification and position verification
 
 ## Achievements  
 - Successfully deployed in **practical applications** at multiple production facilities.
