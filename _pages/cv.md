@@ -45,27 +45,25 @@ redirect_from:
 <div markdown="1" class="cv-section">
 ## Skills
 {: .section-heading}
+  
+-  **AI & Machine Learning Techniques**: Deep Learning: Neural Networks, Large Language Models, YOLO Models, Transformer Models; Computer Vision: Image Classification, Object Detection, Image Segmentation, Image Dehazing; Large Language Models: RAG, GraphRAG, OpenAI API, AI Agent
 
--  **Computer Languages**: Advanced in Python, Java, C/C++, MATLAB.  
+-  **Computer Languages**: **Python** (Advanced), Java, C/C++, MATLAB, LaTeX, Markdown
 
--  **Data Analysis**: Experienced in using Python libraries such as Pandas, NumPy, and Scipy for data analysis.  
+-  **Machine Learning Libraries**: **PyTorch**(Advanced), TensorFlow, OpenCV, Scikit-learn, Matplotlib
 
--  **Databases**: Familiar with SQL.  
+-  **Data Science & Analysis**: Pandas, NumPy, Scipy; SQL for database querying; Data Visualization & Statistical Analysis
 
--  **Framework and Libraries**: PyTorch, TensorFlow, Matplotlib, OpenCV, Scikit-learn.
+-  **Cloud Platforms**: Azure AI Studio, AWS, Google Cloud 
 
--  **Cloud Platforms**: Azure AI Studio, AWS, Google Cloud
+-  **Software & Tools**: Jupyter Notebook, Visual Studio, PyCharm, Microsoft Office, Photoshop  
 
--  **Algorithms**: Expertise in computer vision and machine learning techniques, with proficiency in deep learning, YOLO models, Transformer models, object detection tasks, and image segmentation tasks.  
+-  **Version Control & Collaboration**: GitHub, GitHub codespace  
 
--  **Softwares**: Jupyter, Visual Studio, PyCharm, Microsoft Office, Photoshop.  
-
--  **Repositories**: GitHub, GitLab.  
-
--  **Interpersonal Skills**: Team work, leadership, and consultation.  
-
--  **Academic and Professional Skills**: Research, presentation, teaching, and training.  
+-  **Interpersonal and Professional Skills**: Teamwork, Research, Tutorial, Academic Consultation
+ 
 </div>
+
 
 
 <div markdown="1" class="cv-section">
