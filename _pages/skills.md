@@ -15,6 +15,7 @@ redirect_from:
 
 * Deep Learning: Neural Networks, Large Language Models, YOLO Models, Transformer Models
 * Computer Vision： Image Classification, Object Detection, Image Segmentation, Image Dehazing
+* Large Language Models: RAG, GraphRAG, OpenAI API, AI Agent
 </div>
 
 <div markdown="1" class="skills-section">
