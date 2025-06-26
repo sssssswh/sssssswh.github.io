@@ -1,0 +1,17 @@
+---
+title: "Feature Fusion to Improve YOLOv8 for Segmenting and Classifying Aerial Images of Tree Crowns"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-06-05-yolov8ff-instance-segmentation
+date: 2025-06-05
+authors:
+  - "Ziyi Sun"
+  - "[Bing Xue](https://people.wgtn.ac.nz/bing.xue)"
+  - "[Mengjie Zhang](https://people.wgtn.ac.nz/mengjie.zhang)"
+  - "[Jan Schindler](https://www.landcareresearch.co.nz/about-us/our-people/jan-schindler)"
+venue: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+paperurl: "https://doi.org/10.1109/JSTARS.2025.3576780"
+layout: single-publication
+---
+
+Instance segmentation techniques based on convolutional neural networks (CNNs) is a vital tool for accurately identifying and segmenting individual tree crowns, which plays an essential role in environmental monitoring and forest management. In varied rural landscapes, canopy imagery often includes a mix of tiny, small, and medium tree objects scattered across diverse terrains, from standalone trees to densely clustered forest stands. This variability poses significant challenges to traditional instance segmentation methods. To achieve this, we introduce a new method named YOLOv8-FF, which incorporates a feature fusion (FF) technique based on the YOLOv8 architecture. We first design a network architecture based on YOLOv8 that is optimized for the characteristics of our dataset, enabling effective segmentation of densely distributed tiny and small tree crowns. Moreover, YOLOv8-FF incorporates a FF mechanism that includes both cross-scale and same-scale fusion methods, enhancing the model’s ability to integrate information across different layers and scales, thereby improving segmentation performance. We incorporate Sparse Large Kernel Network, whose large convolution kernel can effectively extract key features, helping the model capture richer and deeper global information in the image. Experimental results on the tree crown dataset demonstrate that YOLOv8-FF outperforms several recent peer competitors, making it a promising tool for accurate and efficient tree crown instance segmentation.
